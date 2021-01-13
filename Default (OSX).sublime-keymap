@@ -1,0 +1,6 @@
+[
+    { 
+        "keys": ["ctrl+alt+p"], "command": "pomodoro_start",
+        "keys": ["ctrl+alt+r"], "command": "pomodoro_stop"
+    }
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Pomodoro",
+		"command": "pomodoro_start"
+	}
+]
