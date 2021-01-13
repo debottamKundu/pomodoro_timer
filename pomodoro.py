@@ -66,8 +66,8 @@ class PomodoroStartCommand(TextCommand):
 			sublime.status_message("Your pomodoro timer has been cancelled")
 		else:
 			sublime.pomodoro_clock = False
-			sublime.status_message("Your pomodoro timer has ended. Please reset using shortcut.")
-			sublime.message_dialog("Your pomodoro timer has ended.")
+			sublime.status_message("Your pomodoro timer has ended.")
+			sublime.message_dialog("Your pomodoro timer has ended. Take a well deserved break.")
 		return
 		# print("Everything ends")
 

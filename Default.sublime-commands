@@ -1,6 +1,11 @@
 [
 	{
-		"caption": "Pomodoro",
+		"caption": "Pomodoro:Start Clock",
 		"command": "pomodoro_start"
+	},
+	{
+		"caption": "Pomodoro:Reset Clock",
+		"command": "pomodoro_stop"
 	}
+
 ]
